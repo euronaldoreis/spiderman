@@ -2,7 +2,7 @@ header{
     width: 100%;
     position: fixed;
     z-index: 800;
-    padding-top: 16px;
+    padding-top: 20px;
 }
 
 .navbar{
@@ -12,6 +12,8 @@ header{
 
     max-width: 1440px;
     margin: 0 auto;
+
+    padding: 0px 16px;
 }
 
 .nav-menu{
